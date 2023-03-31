@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CartOpenIcon</name>
+   <tag></tag>
+   <elementGuidId>2ba84c3f-497f-4c25-978a-518c6e8bff7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary > i.fa.fa-shopping-cart</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>7f40a6de-418f-4b70-bf53-38bef7ce9758</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-shopping-cart</value>
+      <webElementGuid>57029734-29ef-46ad-bed5-ba5cb3cfde68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;d-flex flex-column min-vh-100&quot;]/div[@class=&quot;container-lg container-fluid  mt-5 px-5&quot;]/button[@class=&quot;btn btn-primary&quot;]/i[@class=&quot;fa fa-shopping-cart&quot;]</value>
+      <webElementGuid>f3809a1b-e0fb-4427-b553-c4d4b8186c26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>68deccd9-f196-4828-adfe-221170268c02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

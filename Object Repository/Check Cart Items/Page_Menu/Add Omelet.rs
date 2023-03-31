@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Add Omelet</name>
+   <tag></tag>
+   <elementGuidId>aa6f4e50-508c-40c4-8fa0-c4088125c523</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div[4]/div/div[1]/div/div[3]/div[2]/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a > #addToCartBtn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cbd4b45d-2226-407a-8660-ad82dc92e7a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8b6449ec-2fe8-45c3-b5e2-e85ca099d2e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success</value>
+      <webElementGuid>cc952b88-c950-4c29-a2ae-6aa065b42cff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>addToCartBtn</value>
+      <webElementGuid>9aeaf43e-b8df-452a-9349-d2ea7c2420cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value> {
+                                                                const id = '64270486f5e1bd344bec28d4';
+                                                                handleToCart(id)
+                                                            }</value>
+      <webElementGuid>d514de55-76c0-4038-8321-69791358815f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to cart</value>
+      <webElementGuid>6114052d-e68c-4adb-a7e6-21f4f2e35542</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;d-flex flex-column min-vh-100 modal-open&quot;]/div[@class=&quot;container-lg container-fluid  mt-5 px-5&quot;]/div[@class=&quot;container-fluid mb-3&quot;]/div[@class=&quot;container-fluid row&quot;]/div[@class=&quot;col-12 col-md-6 my-3&quot;]/div[@class=&quot;row p-2 bg-white border rounded&quot;]/div[@class=&quot;align-items-center align-content-center col-md-3 mt-1&quot;]/div[@class=&quot;d-flex flex-column mt-4&quot;]/div[@id=&quot;exampleModal64270486f5e1bd344bec28d4&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer&quot;]/a[1]/button[@id=&quot;addToCartBtn&quot;]</value>
+      <webElementGuid>21098de7-9f82-4656-86b7-c48464c0b96d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@id='addToCartBtn'])[2]</value>
+      <webElementGuid>fe3901d2-3b88-481e-aad8-c801c48e5e75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='exampleModal64270486f5e1bd344bec28d4']/div/div/div[3]/a/button</value>
+      <webElementGuid>fb201cce-6405-4936-8b3a-e91dc88ec9f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::button[1]</value>
+      <webElementGuid>d2cdaf3e-5edb-4328-8a52-c9f9b60efddc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/following::button[2]</value>
+      <webElementGuid>74394055-d647-48d6-8a3e-9bda474b00dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orange Juice'])[1]/preceding::button[1]</value>
+      <webElementGuid>292c6529-9090-4325-ae34-4c0f1089aea4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='category: drink'])[1]/preceding::button[1]</value>
+      <webElementGuid>f71ac754-e641-4c94-b243-e0cf0798e754</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/button</value>
+      <webElementGuid>8e22fb37-d627-49d3-8a51-a192d0888661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'addToCartBtn' and (text() = 'Add to cart' or . = 'Add to cart')]</value>
+      <webElementGuid>154611e7-825c-420e-a385-a6422b33877c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

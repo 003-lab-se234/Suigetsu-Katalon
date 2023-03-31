@@ -33,7 +33,7 @@ WebUI.click(findTestObject('Object Repository/Check Searching Food/Page_Login/in
 
 WebUI.click(findTestObject('Object Repository/Check Searching Food/Page_index/span_Getsu_navbar-toggler-icon'))
 
-WebUI.click(findTestObject('Object Repository/Check Searching Food/Page_index/a_Menu'))
+WebUI.click(findTestObject('null'))
 
 WebUI.setText(findTestObject('Object Repository/Check Searching Food/Page_Menu/input_Search for your meal_title'), name)
 

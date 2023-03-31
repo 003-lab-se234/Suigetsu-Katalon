@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Menu</name>
+   <name>a_Signin</name>
    <tag></tag>
-   <elementGuidId>60de78f9-85f0-4ae3-b0fb-1cbeae7f6d73</elementGuidId>
+   <elementGuidId>24cc2cd1-3d9c-452d-a43b-aa1550b4527a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='navbarCollapse']/div[2]/a</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='navbarCollapse']/div/a[2]</value>
+         <key>CSS</key>
+         <value>div.navbar-nav.ml-auto > a.nav-item.nav-link.active</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>dc0e119c-240c-4253-bbb9-1dca091adec9</webElementGuid>
+      <webElementGuid>23306e83-eafa-49f2-93c1-425f740fbe6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/menu</value>
-      <webElementGuid>2e5bdf0c-4926-4b48-ae59-6120164df59d</webElementGuid>
+      <value>/auth/signin</value>
+      <webElementGuid>4f61169c-c383-46e0-ad6a-e7de78ccac17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,102 +38,102 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-item nav-link active</value>
-      <webElementGuid>c7d7bf8b-6942-4e55-a650-d7d8e4e11fa4</webElementGuid>
+      <webElementGuid>9f7ff91e-8e55-46dd-8e66-41aac333b67a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Menu</value>
-      <webElementGuid>3be22069-2540-4c75-bca2-b5b95aa5aeca</webElementGuid>
+      <value>  Signin </value>
+      <webElementGuid>659e021c-53ce-45e5-966d-e3cf5ce1bf98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;navbarCollapse&quot;)/div[@class=&quot;navbar-nav&quot;]/a[@class=&quot;nav-item nav-link active&quot;]</value>
-      <webElementGuid>d4bb64ad-01e9-4fb0-9e29-7ea885995e11</webElementGuid>
+      <value>id(&quot;navbarCollapse&quot;)/div[@class=&quot;navbar-nav ml-auto&quot;]/a[@class=&quot;nav-item nav-link active&quot;]</value>
+      <webElementGuid>2f1cbad6-8976-4138-b16e-6f1c01f56b72</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='navbarCollapse']/div/a[2]</value>
-      <webElementGuid>d4db3e4b-3ec1-4564-9e64-566dae5660a5</webElementGuid>
+      <value>//div[@id='navbarCollapse']/div[2]/a</value>
+      <webElementGuid>8b17220a-4401-4230-a834-72451b840044</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Menu')]</value>
-      <webElementGuid>ac6e6027-bc13-4fa6-a2c0-0882004d82ea</webElementGuid>
+      <value>//a[contains(text(),'Signin')]</value>
+      <webElementGuid>afe7093a-1924-4778-9fdc-fce98c3ebd7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[1]</value>
-      <webElementGuid>767f3216-f752-4728-b643-7974e843b0b8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[1]/following::a[1]</value>
+      <webElementGuid>81809529-7e7c-4453-a920-6edccfce368f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Getsu'])[1]/following::a[2]</value>
-      <webElementGuid>2807c645-6460-4f04-8233-45d2ca2dd608</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/following::a[2]</value>
+      <webElementGuid>ffda8e32-df20-4f9d-892b-5f2548ba5361</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/preceding::a[1]</value>
-      <webElementGuid>7d4c496a-6d7f-4edb-869a-90fce251b882</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you hungry?'])[1]/preceding::a[1]</value>
+      <webElementGuid>33109737-eb30-40fc-b2b0-d004756f6c6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[1]/preceding::a[2]</value>
-      <webElementGuid>bcf9a08b-d927-4774-9a53-fc2828d93322</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='menu'])[1]/preceding::a[1]</value>
+      <webElementGuid>2019ce99-4fd7-4426-af43-7232ca380248</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Menu']/parent::*</value>
-      <webElementGuid>4e43c699-d17c-402a-a212-afe4a0e60139</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Signin']/parent::*</value>
+      <webElementGuid>32faaec0-9716-4c69-9e39-bb6b96360523</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/menu')]</value>
-      <webElementGuid>99680edf-609e-46e8-9093-938677756653</webElementGuid>
+      <value>//a[contains(@href, '/auth/signin')]</value>
+      <webElementGuid>7e00819b-1f06-48c6-b2ae-e298915b3ea0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//a[2]</value>
-      <webElementGuid>a6358344-4678-4361-9b2c-92297e79a154</webElementGuid>
+      <value>//div[2]/a</value>
+      <webElementGuid>d6be72ca-0233-4199-833e-39c40be6d40b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/menu' and (text() = 'Menu' or . = 'Menu')]</value>
-      <webElementGuid>8d7ca12f-b544-4cd3-aa8b-16c15b5591a3</webElementGuid>
+      <value>//a[@href = '/auth/signin' and (text() = '  Signin ' or . = '  Signin ')]</value>
+      <webElementGuid>9605b7e8-90f4-4b46-b0bf-8af69186dc9b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

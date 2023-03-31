@@ -15,7 +15,7 @@
       <guid>0689c869-adc6-4dd2-88ab-b2a802e965a3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Check Searching Food</testCaseId>
+      <testCaseId>Test Cases/Food/Check Searching Food</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>58904213-1ffb-4156-b72a-98b4cb6d452a</id>
@@ -49,7 +49,7 @@
       <guid>2422fa0d-bcf8-429e-b7c5-bf85bdf6acec</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Staff Food Item</testCaseId>
+      <testCaseId>Test Cases/Food/Staff Food Item</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
