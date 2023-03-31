@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>price</name>
+   <tag></tag>
+   <elementGuidId>adc02dc0-1c88-4962-8496-202071215b55</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div[4]/div/div/div/div[3]/div[2]/div/div/div/div[2]/div[2]/div[2]/p[1]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0ffa0727-dd35-4884-bec7-a40ba3739a06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                                                25
+                                                                            </value>
+      <webElementGuid>5141f6bc-2a89-4a69-8861-83cd130a3144</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;d-flex flex-column min-vh-100 modal-open&quot;]/div[@class=&quot;container-lg container-fluid  mt-5 px-5&quot;]/div[@class=&quot;container-fluid mb-3&quot;]/div[@class=&quot;container-fluid row&quot;]/div[@class=&quot;col-12 col-md-6 my-3&quot;]/div[@class=&quot;row p-2 bg-white border rounded&quot;]/div[@class=&quot;align-items-center align-content-center col-md-3 mt-1&quot;]/div[@class=&quot;d-flex flex-column mt-4&quot;]/div[@id=&quot;exampleModal642704ccf5e1bd344bec28e4&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-md-6 align-items-left&quot;]/p[1]/span[1]</value>
+      <webElementGuid>4082f4e7-1c64-4e5a-b916-81ae938ba537</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='exampleModal642704ccf5e1bd344bec28e4']/div/div/div[2]/div[2]/div[2]/p/span</value>
+      <webElementGuid>f57995b3-d240-4f53-8bf6-9e0902e96790</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/following::span[1]</value>
+      <webElementGuid>f3164bbf-a2f1-4baf-adf0-cfc39c3139fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::span[1]</value>
+      <webElementGuid>1b69d215-adcc-45f0-be92-bcd3954fe3c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::span[2]</value>
+      <webElementGuid>5e649bdf-cd0f-4e74-87bb-897d78f5e8c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[2]/preceding::span[2]</value>
+      <webElementGuid>55bc6ac6-7af1-47e7-9e6c-225c32015a63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='25']/parent::*</value>
+      <webElementGuid>d90d9f79-c349-4906-afad-6bfce47cae1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/span</value>
+      <webElementGuid>b5dc3415-ec09-4472-aa58-51c340c928c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                                                                                25
+                                                                            ' or . = '
+                                                                                25
+                                                                            ')]</value>
+      <webElementGuid>ab5e502e-9929-468e-bb80-d17136d3aea1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>category</name>
+   <tag></tag>
+   <elementGuidId>b15acb31-a4af-4697-a93e-71b4695a0540</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div[4]/div/div/div/div[3]/div[2]/div/div/div/div[2]/h6</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-body > h6.font-weight-light</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>d37b40e6-6850-4f00-9c65-19c4701e04c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-weight-light</value>
+      <webElementGuid>683a8829-6401-4d97-956d-efbfd7504016</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>category:
+                                                                    side
+                                                                </value>
+      <webElementGuid>baa9fc32-7f7b-4ef7-9e26-0007378426ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;d-flex flex-column min-vh-100 modal-open&quot;]/div[@class=&quot;container-lg container-fluid  mt-5 px-5&quot;]/div[@class=&quot;container-fluid mb-3&quot;]/div[@class=&quot;container-fluid row&quot;]/div[@class=&quot;col-12 col-md-6 my-3&quot;]/div[@class=&quot;row p-2 bg-white border rounded&quot;]/div[@class=&quot;align-items-center align-content-center col-md-3 mt-1&quot;]/div[@class=&quot;d-flex flex-column mt-4&quot;]/div[@id=&quot;exampleModal64270486f5e1bd344bec28d4&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/h6[@class=&quot;font-weight-light&quot;]</value>
+      <webElementGuid>ab6123c7-f996-456d-819e-832a822acc97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='exampleModal64270486f5e1bd344bec28d4']/div/div/div[2]/h6</value>
+      <webElementGuid>10080123-5616-4f2b-9c7a-f3ac68ef0929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::h6[1]</value>
+      <webElementGuid>e26ce6df-86d4-471f-a665-4bcec21c8fdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Omelet'])[2]/following::h6[1]</value>
+      <webElementGuid>de2a39ad-8f77-411e-944d-027a20687d25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qty:'])[1]/preceding::h6[1]</value>
+      <webElementGuid>32dd73c6-d77a-42e0-82ec-39667874d5d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::h6[2]</value>
+      <webElementGuid>de3552ff-2691-4f88-b9ac-5ba9ffe96504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/h6</value>
+      <webElementGuid>4ae4622d-e27f-4a4a-8b9e-e9260611712f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'category:
+                                                                    side
+                                                                ' or . = 'category:
+                                                                    side
+                                                                ')]</value>
+      <webElementGuid>0a34d812-4982-4498-96ac-14af7871da10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
