@@ -31,9 +31,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Check Searching Food/Pa
 
 WebUI.click(findTestObject('Object Repository/Check Searching Food/Page_Login/input_Password_btn btn-primary btn-lg'))
 
-WebUI.click(findTestObject('Object Repository/Check Searching Food/Page_index/span_Getsu_navbar-toggler-icon'))
-
-WebUI.click(findTestObject('null'))
+WebUI.navigateToUrl('http://44.213.144.246:8080/menu')
 
 WebUI.setText(findTestObject('Object Repository/Check Searching Food/Page_Menu/input_Search for your meal_title'), name)
 

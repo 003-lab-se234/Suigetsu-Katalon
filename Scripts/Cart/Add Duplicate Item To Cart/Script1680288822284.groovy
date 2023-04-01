@@ -16,11 +16,10 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import org.openqa.selenium.By
-import org.openqa.selenium.WebDriver
-import org.openqa.selenium.WebElement
-import com.kms.katalon.core.webui.driver.DriverFactory
+import org.openqa.selenium.By as By
+import org.openqa.selenium.WebDriver as WebDriver
+import org.openqa.selenium.WebElement as WebElement
+import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 
 WebUI.openBrowser('')
 
@@ -37,7 +36,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Check Add Duplicate Ite
 
 WebUI.click(findTestObject('Object Repository/Check Add Duplicate Item/Page_Login/input_Password_btn btn-primary btn-lg'))
 
-WebUI.click(findTestObject('Object Repository/Check Add Duplicate Item/Page_index/a_See menu'))
+WebUI.navigateToUrl('http://44.213.144.246:8080/menu')
 
 WebUI.click(findTestObject('Object Repository/Check Add Duplicate Item/Page_Menu/button_Add to cart'))
 
@@ -62,6 +61,7 @@ WebUI.verifyElementText(findTestObject('Check Add Duplicate Item/Page_Menu/ItemT
 WebUI.verifyElementText(findTestObject('Check Add Duplicate Item/Page_Menu/CartFinalPrice'), '90')
 
 WebDriver driver = DriverFactory.getWebDriver()
+
 'To locate the cart'
 WebElement Cart = driver.findElement(By.xpath('/html/body/div[2]/div[2]/div/div/div[2]/div[1]'))
 

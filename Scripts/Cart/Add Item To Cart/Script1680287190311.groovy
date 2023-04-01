@@ -35,7 +35,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Check Cart Items/Page_L
 
 WebUI.click(findTestObject('Object Repository/Check Cart Items/Page_Login/input_Password_btn btn-primary btn-lg'))
 
-WebUI.click(findTestObject('Object Repository/Check Cart Items/Page_index/a_See menu'))
+WebUI.navigateToUrl('http://44.213.144.246:8080/menu')
 
 WebUI.click(findTestObject('Object Repository/Check Cart Items/Page_Menu/Add Omelet'))
 
